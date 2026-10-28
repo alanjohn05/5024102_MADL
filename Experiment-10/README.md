@@ -72,18 +72,26 @@ Place the provided screenshots in a folder named screenshots/ in this
 experiment's directory. Use the following filenames, or update the paths
 below to match the filenames in your repository.
 1. Application running on an Android device
+![Experiment 10 Output](screenshots/experiment-10(run1).png)
 
 2. Application running on another Android device
+![Experiment 10 Output](screenshots/experiment-10(run2).png)
 
 3. Flutter static analysis
+![Experiment 10 Output](screenshots/experiment-10(flutterstaticanalysis).png)
 
 4. Release APK build
+![Experiment 10 Output](screenshots/experiment-10(releaseapk).png)
 
 5. Android App Bundle build
+![Experiment 10 Output](screenshots/experiment-10(androidappbuild).png)
 
 6. Keystore generation
+![Experiment 10 Output](screenshots/experiment-10(keystoregeneration).png)
 
 7. Signing configuration example
+![Experiment 10 Output](screenshots/experiment-10(signconfex).png)
+
 
 Important: GitHub displays images only when the image files are
 committed at the referenced paths. If your screenshots have different
