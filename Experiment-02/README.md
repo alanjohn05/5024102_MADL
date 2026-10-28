@@ -10,12 +10,12 @@ The app contains:
 Screenshots
 1. Initial Screen
 The app displays the default message before the button is tapped.
-![Hello World](screenshots/experiment-02 [1].png)
+![Hello World](screenshots/experiment-02[1].png)
 
 
 2. Screen After Tapping the Button
 After tapping Say Hello, the greeting updates to Hello World! Flutter says Hi.
-![Hello World](screenshots/experiment-02 [2].png)
+![Hello World](screenshots/experiment-02[2].png)
 
 How to Run
 1. Make sure Flutter is installed and configured.
