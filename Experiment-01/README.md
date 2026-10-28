@@ -21,3 +21,4 @@ flutter devices
 
 ## Expected result
 Flutter and Dart are detected, Android toolchain licenses are accepted, and at least one emulator or device is listed. Exact `flutter doctor` output varies by machine and installed versions.
+![Experiment 1 Output](screenshots/experiment-01.png)
