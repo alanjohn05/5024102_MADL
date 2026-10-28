@@ -21,7 +21,7 @@ The screen displays the saved JSON data:
 
 4. After Reading
 The screen displays Status: Saved successfully after the Read action.
-![Experiment 8 Output](screenshots/experiment-08(read).png)
+![Experiment 8 Output](screenshots/experimnet-08(read).png)
 
 Features Demonstrated
 - Saving JSON data in memory
